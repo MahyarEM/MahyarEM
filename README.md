@@ -44,6 +44,24 @@ I specialize in using analytical tools to understand business performance, extra
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=353535) ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=powerbi&logoColor=white&color=353535) ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat-square&logo=microsoftexcel&logoColor=white&color=353535) ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=NumPy&color=353535) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=GitHub&color=353535)
 
+### ⚙️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
+
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=353535)
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=powerbi&logoColor=white&color=353535)
+
+![Microsoft Excel](https://img.shields.io/badge/-Excel-05122A?style=flat-square&logo=microsoftexcel&logoColor=white&color=353535)
+
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=pandas&color=353535)
+
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=numpy&color=353535)
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&color=353535)
+
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github&color=353535)
+
 <div>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" alt="Mahyar's GitHub Streak" />
 </div>
