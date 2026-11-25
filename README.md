@@ -47,3 +47,13 @@ I specialize in using analytical tools to understand business performance, extra
 <div>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" alt="Mahyar's GitHub Streak" />
 </div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahyarEM&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahyarEM&theme=tokyonight&hide_border=true)
+
+</div>
