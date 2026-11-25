@@ -32,7 +32,7 @@ I specialize in using analytical tools to understand business performance, extra
 ### 🖥 Skills
 
 - **Data Analysis** (Python, Pandas, NumPy, Excel)
-- **SQL & Databases** (SQL, T-SQL, MySQL)
+- **SQL & Databases** (SQL, T-SQL, Microsoft SQL Server)
 - **Business Intelligence** (Power BI, DAX, Power Query)
 - **Data Visualization & Reporting**
 - **KPI Analysis & Business Performance**
