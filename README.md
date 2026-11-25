@@ -46,17 +46,17 @@ I specialize in using analytical tools to understand business performance, extra
 
 ### ⚙️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-353535?style=flat-square&logo=python&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" />
+</p>
 
-![Microsoft Excel](https://img.shields.io/badge/-Excel-353535?style=flat-square&logo=microsoftexcel&logoColor=217346)
-
-![Power BI](https://img.shields.io/badge/-Power%20BI-353535?style=flat-square&logo=powerbi&logoColor=F2C811)
-
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-353535?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
-
-![Pandas](https://img.shields.io/badge/-Pandas-353535?style=flat-square&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/-NumPy-353535?style=flat-square&logo=numpy&logoColor=white)
+<p align="left">
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="45" height="45" />
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="45" height="45" />
+</p>
 
 <div>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" alt="Mahyar's GitHub Streak" />
