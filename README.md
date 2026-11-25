@@ -51,7 +51,3 @@ I specialize in using analytical tools to understand business performance, extra
   <img src="https://img.icons8.com/color/96/power-bi.png" width="45" height="45" />
 </p>
 
-<div>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" alt="Mahyar's GitHub Streak" />
-</div>
-
