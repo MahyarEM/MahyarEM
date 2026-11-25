@@ -51,9 +51,6 @@ I specialize in using analytical tools to understand business performance, extra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" />
-</p>
-
-<p align="left">
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="45" height="45" />
   <img src="https://img.icons8.com/color/96/power-bi.png" width="45" height="45" />
 </p>
